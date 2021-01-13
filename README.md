@@ -30,7 +30,7 @@ A simple screenshot tool to copy the area you specified, save that area as a new
 ### Folder Structure:
 
 ```
-MOODLE-Copy-HACK
+Image-to-Text
     │
     └── main.py
     │
