@@ -23,13 +23,12 @@ while True:
                 mouseCoordinatesDict.append(mouseCoordinates)
                 pass
 
-        if totalEvent == 2:
-            mouseCoordinates = queryMousePosition()
-            print(mouseCoordinates)
-            time.sleep(0.333)
-            mouseCoordinatesDict.append(mouseCoordinates)
-            break
-
+            if totalEvent == 2:
+                mouseCoordinates = queryMousePosition()
+                print(mouseCoordinates)
+                time.sleep(0.333)
+                mouseCoordinatesDict.append(mouseCoordinates)
+                break
 
     except:
         break
