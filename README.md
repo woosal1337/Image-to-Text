@@ -44,7 +44,7 @@ Image-to-Text
 ### Article:
 
 Medium - 
-https://woosal1337.medium.com/moodle-bypass-copy-the-question-ocr-python-b1a467ba30fa
+https://woosal1337.medium.com/image-to-text-ocr-python-4acd8e48e8ca
 
 Dev.to - 
 https://dev.to/woosal/moodle-bypass-copy-the-question-56jk
